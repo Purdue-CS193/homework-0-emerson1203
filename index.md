@@ -4,7 +4,7 @@
 
 - It is in the physics building, where I have one other class. So for that reason, I don't have a different building for every single class.
 - There aren't exams which takes a lot of the pressure off when stuff like this can make me kind of stressed
-- The instructors seem super awesome and cool 😉
+- The instructors seem super awesome and cool ;)
 
 ## Welcome to GitHub Pages
 
