@@ -1,5 +1,11 @@
 # Emerson's First CS193 Homework
 
+## A list of my favorite things, after one lecture
+
+- It is in the physics building, where I have one other class. So for that reason, I don't have a different building for every single class.
+- There aren't exams which takes a lot of the pressure off when stuff like this can make me kind of stressed
+- The instructors seem super awesome and cool 😉
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
